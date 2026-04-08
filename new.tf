@@ -1,0 +1,3 @@
+terraform {
+  new="nr"
+}
