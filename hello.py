@@ -1,2 +1,2 @@
-shram
-man
+manasa sarovara
+mansa sarovara
